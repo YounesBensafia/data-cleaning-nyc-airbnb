@@ -1,0 +1,13 @@
+TODO:
+-Understand the Data
+-Handle Missing Values
+-Fix Data Types
+-Remove Duplicates
+-Standardize Text Data
+-Handle Outliers
+-Validate and Correct Data
+-Normalize or Scale Values
+-Encode Categorical Variables
+-Feature Engineering (Optional)
+-Drop Irrelevant or Redundant Columns
+-Save Cleaned Data
