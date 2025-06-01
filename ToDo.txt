@@ -1,8 +1,8 @@
 TODO:
--Understand the Data
+
 -Handle Missing Values
 -Fix Data Types
--Remove Duplicates
+
 -Standardize Text Data
 -Handle Outliers
 -Validate and Correct Data
@@ -11,3 +11,7 @@ TODO:
 -Feature Engineering (Optional)
 -Drop Irrelevant or Redundant Columns
 -Save Cleaned Data
+
+DONE:
+-Understand the Data
+-Remove Duplicates
